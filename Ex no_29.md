@@ -27,7 +27,7 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/64274b87-23b3-4f04-9e9a-a3a14c7c8637)
+![image](https://github.com/user-attachments/assets/9964ef99-9116-4486-8e09-5dc3c9c094cd)
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
